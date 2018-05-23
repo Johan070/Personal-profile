@@ -1,0 +1,10 @@
+Dit is het eerste project wat ik aan het maken ben in unity3D.
+Door het hoog aantal benodigde uren in mijn opleiding heb ik helaas weinig tijd gehad om hier veel aan te werken.
+Door problemen met het uploaden naar github upload ik de scene met alle benodigde scripts als asset package.
+controlls:
+  w = forward
+  s = backwards
+  a = left
+  d = right
+  space = jump
+  t = throw dice
